@@ -1,6 +1,6 @@
 # documentation
 
-> [Country Codes](https://github.com/IKEAStock/documentation/countrycodes.md)\
+> [Country Codes](https://github.com/IKEAStock/documentation/blob/main/countrycodes.md)\
 > [Discord Bot Commands](https://github.com/IKEAStock/documentation/commands.md)
 
 ## FAQ
