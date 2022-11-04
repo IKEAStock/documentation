@@ -7,3 +7,4 @@ Here is where [I](https://github.com/arhancodes) attempt to log changes to IKEA 
 - 20/9/22 - made [IKEAStock/documentation](https://github.com/IKEAStock/documentation) public
 - 30/0/22 - archived [IKEAStock/analytics](https://github.com/IKEAStock/analytics) as we are no longer using it anymore
 - 15/10/22 - migrated to [ikeastock.app](https://ikeastock.app) from [ikeastock.xyz](https://ikeastock.xyz)
+- 4/11/22 - created (hopefully) [api.ikeastock.app](https://api.ikeastock.app)
